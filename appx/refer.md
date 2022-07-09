@@ -15,11 +15,24 @@ Numbda课题组隶属于清华大学计算机系计算机软件研究所，由�
 
 ## 学术会议
 
+### ISSCC
+ISSCC全称是IEEE International Solid-State Circuits Conference(国际固态电路会议)。
 
 ### DAC
+DAC全称是Design Automation Conference(设计自动化会议)。
+
 ### ICCAD
-### ISSCC
+ICCAD全称是IEEE International Conference on Computer-aided Design(国际计算机辅助设计会议)。
+
 ### DATE
+DATE全称是Design, Automation and Test in Europe Conference and Exhibition(欧洲设计自动化与测试学术会议)。
+
+## 学术期刊
+### JSSC
+JSSC全称是IEEE Journal of Solid-State Circuits。
+
+### TCAD
+TCAD全称是IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems。
 
 ---
 采用知识共享[署名-非商业性使用-相同方式共享 3.0 中国大陆](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)许可协议发布。
