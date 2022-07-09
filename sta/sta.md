@@ -1,1 +1,18 @@
-1. https://github.com/OpenTimer/OpenTimer
+---
+id: "sta"
+title: "时序分析"
+---
+
+## 时序分析介绍
+
+### 动态时序分析
+展示实例
+
+### 静态时序分析
+展示实例
+
+两种时序分析的对比，使用图表展示
+
+### setup hold
+
+介绍一下理想和实际D触发器的工作原理和波形。进而过渡到两个实际D触发器的连接进而引入setup和hold的概念。https://zhuanlan.zhihu.com/p/359332804
