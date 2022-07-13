@@ -25,3 +25,6 @@ title: "时序分析"
 
 介绍一下理想和实际D触发器的工作原理和波形。进而过渡到两个实际D触发器的连接进而引入setup和hold的概念。https://zhuanlan.zhihu.com/p/359332804
 https://blog.csdn.net/z951573431/article/details/117411885
+
+---
+采用知识共享[署名-非商业性使用-相同方式共享 3.0 中国大陆](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/)许可协议发布
